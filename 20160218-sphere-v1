@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Brainstorm!</title>
+    <meta name="description" content="Brainstorm!">
+    <script src="https://aframe.io/releases/latest/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-sphere position="-3 1.25 -1" radius="1.25" color="#87761a"></a-sphere>
+      <a-sphere position="0 1.25 -1" radius="1.25" color="#f1c2a6"></a-sphere>
+      <a-sphere position="3 1.25 -1" radius="1.25" color="#f49c9a"></a-sphere>
+      <a-sphere position="-3 -2 -1" radius="1.25" color="#fcd68f"></a-sphere>
+      <a-sphere position="0 -2 -1" radius="1.25" color="#629076"></a-sphere>
+      <a-sphere position="3 -2 -1" radius="1.25" color="#75cadc"></a-sphere>
+      <a-sphere position="-3 4.5 -1" radius="1.25" color="#babff6"></a-sphere>
+      <a-sphere position="0 4.5 -1" radius="1.25" color="#ce9287"></a-sphere>
+      <a-sphere position="3 4.5 -1" radius="1.25" color="#5f7fca"></a-sphere>
+
+      <a-sky color="#ECECEC"></a-sky>
+    </a-scene>
+  </body>
+</html>
